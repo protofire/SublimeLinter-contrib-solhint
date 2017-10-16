@@ -3,7 +3,7 @@ SublimeLinter-contrib-solhint
 
 [![Build Status](https://travis-ci.org/idrabenia/SublimeLinter-contrib-solhint.svg?branch=master)](https://travis-ci.org/idrabenia/SublimeLinter-contrib-solhint)
 
-This linter plugin for [SublimeLinter](http://sublimelinter.readthedocs.org) provides an interface to [solhint](https://github.com/tokenhouse/solhint). It will be used with files that have the "Solidity" syntax.
+This linter plugin for [SublimeLinter](http://sublimelinter.readthedocs.org) provides an interface to [solhint](https://github.com/protofire/solhint). It will be used with files that have the "Solidity" syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here](http://sublimelinter.readthedocs.org/en/latest/installation.html).
